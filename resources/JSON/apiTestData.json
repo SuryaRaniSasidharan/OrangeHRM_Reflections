@@ -1,0 +1,22 @@
+{
+ 
+    "createUser": {
+ 
+        "status": true,
+ 
+        "username": "Sooraj",
+ 
+        "password": "Sooraj12",
+ 
+        "userRoleId": 1,
+ 
+        "empNumber": 1
+ 
+    },
+ 
+    "searchUser": {
+        "username": "Sooraj"
+    }
+ 
+}
+ 

@@ -1,0 +1,10 @@
+{
+  "user": {
+    "role": "Admin",
+    "status":"Enabled",
+    "employeeName": "a ",
+    "username": "autoTest",
+    "updatedUsername": "automationTest",
+    "password": "Test@12345"
+  }
+}
